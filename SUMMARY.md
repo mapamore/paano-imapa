@@ -10,5 +10,4 @@
 
 * [Barangay](paano-imapa-ang/barangay.md)
 * [Evacuation Facilities](paano-imapa-ang/evacuation-shelter.md)
-* [Paaralan](paaralan.md)
 

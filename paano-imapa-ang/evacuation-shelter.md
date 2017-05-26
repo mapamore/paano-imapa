@@ -24,7 +24,7 @@ Dedicated shelters are purposed-built facilities, and designed _exclusively_ as 
 social_facility=shelter
 social_facility:for=displaced
 social_facility:capacity=*
-shelter_type=earthquake;floods;debris_flow
+shelter_type=floods;earthquake;tsunami;debris_flow;tsunami
 name=*
 ```
 
@@ -49,12 +49,28 @@ emergency:shelter_type=earthquake;floods;debris_flow
 name=*
 ```
 
+> These `emergency:` tags has been adopted by the OSMtw community [^3]
+
+
+
+Example of a "Covered Court" tagged an emergency shelter during tyhpoons:
+
+```
+leisure=sports_centre
+sport=multi
+name=Palakasan Covered Court
+emergency:social_facility=shelter
+emergency:social_facility:for=displaced
+emergency:social_facility:capacity=*
+emergency:shelter_type=typhoon
+```
+
 ### Additional Tags
 
 Additional tags may be used to provide better context to the information:
 
-
 ###### Operator
+
 ```
 emergency:operator=San Juan City
 emergency:operator:type=government
@@ -78,9 +94,7 @@ addr:village=Barangay
 addr:housenumber=123
 addr:street=Sesame Street
 addr:full=123 Sesame Street, Neighborhood, Barangay, Municipality
-
 ```
-
 
 [^1]: [Meeting point](https://en.wikipedia.org/wiki/Meeting_point)
 
