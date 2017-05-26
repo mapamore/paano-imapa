@@ -1,4 +1,12 @@
+# Evacuation Facilities
+
+Local governemnts identify assembly areas,  and maintain emergency shelters for use during emergencies and other humanitarian crises.
+
+
+
 ## Assembly Area
+
+---
 
 The assembly area is a meeting point designated \(safe\) place where people can gather or must report to during an emergency or a fire drill etc. [^1]
 
@@ -10,7 +18,11 @@ This may also be known as: evacuation area, muster point, assembly point.
 
 `emergency=assembly_point`
 
-## Dedicated Shelter
+## 
+
+## Dedicated shelter
+
+---
 
 A dedicated emergency shelter is a place for people to live temporarily when they cannot live in their previous residence, similar to homeless shelters. [^2]
 
@@ -28,7 +40,11 @@ shelter_type=floods;earthquake;tsunami;debris_flow;tsunami
 name=*
 ```
 
-## Multi-purpose Shelter
+## 
+
+## Multi-purpose shelter
+
+---
 
 A multi-purpose emergency shelter is a place for people to live temporarily when they cannot live in their previous residence, similar to homeless shelters. [^2]
 
@@ -51,8 +67,6 @@ name=*
 
 > These `emergency:` tags has been adopted by the OSMtw community [^3]
 
-
-
 Example of a "Covered Court" tagged an emergency shelter during tyhpoons:
 
 ```
@@ -65,7 +79,11 @@ emergency:social_facility:capacity=*
 emergency:shelter_type=typhoon
 ```
 
-### Additional Tags
+### 
+
+### Additional Tags - Great to have, but optional.
+
+---
 
 Additional tags may be used to provide better context to the information:
 
