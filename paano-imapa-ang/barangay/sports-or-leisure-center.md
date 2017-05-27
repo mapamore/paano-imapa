@@ -13,7 +13,8 @@ Area
 ##### Minimum:
 
 ```
-amenity=community_centre
+leisure=sports_centre
+sports=multi
 name=*
 ```
 
@@ -33,6 +34,9 @@ contact:website=*
 ```markdown
 **operator**=Barangay XYX
 operator:type=government
+
+>no walls, typical in PH
+building=roof
 ```
 
 ##### Deprecated:
