@@ -4,7 +4,9 @@ A dedicated emergency shelter is a place for people to live temporarily when the
 
 Dedicated shelters are purposed-built facilities, and designed _exclusively_ as a shelter for emergencies as opposed to multi-functional facilities that were designed primarily for another purpose.
 
-**Geometry**: Area
+### **Geometry**
+
+Set a [node](http://wiki.openstreetmap.org/wiki/Node)[![](http://wiki.openstreetmap.org/w/images/thumb/7/76/Osm_element_node.svg/20px-Osm_element_node.svg.png "Node")](http://wiki.openstreetmap.org/wiki/Elements#Node) or draw as an [area](http://wiki.openstreetmap.org/wiki/Area)[![](http://wiki.openstreetmap.org/w/images/thumb/e/e6/Osm_element_area.svg/20px-Osm_element_area.svg.png "Area")](http://wiki.openstreetmap.org/wiki/Elements#Area_.28closed_way.29) along the building outline, as may be appropriate.
 
 **Tags**:
 
@@ -24,7 +26,9 @@ A multi-purpose emergency shelter is a place for people to live temporarily when
 
 Multi-purpose shelters normally serves a different function, and turns into temporary shelters during emergencies.
 
-**Geometry**: Area
+### **Geometry**
+
+Set a [node](http://wiki.openstreetmap.org/wiki/Node)[![](http://wiki.openstreetmap.org/w/images/thumb/7/76/Osm_element_node.svg/20px-Osm_element_node.svg.png "Node")](http://wiki.openstreetmap.org/wiki/Elements#Node) or draw as an [area](http://wiki.openstreetmap.org/wiki/Area)[![](http://wiki.openstreetmap.org/w/images/thumb/e/e6/Osm_element_area.svg/20px-Osm_element_area.svg.png "Area")](http://wiki.openstreetmap.org/wiki/Elements#Area_.28closed_way.29) along the building outline, as may be appropriate.
 
 **Tags**:
 
