@@ -11,16 +11,17 @@
 
 ## paano imapa ang ...
 
+* Buildings
 * [Barangay](paano-imapa-ang/barangay.md)
   * [Barangay Hall](paano-imapa-ang/barangay/barangay-hall.md)
   * Health or Wellness Center
   * Sports or Leisure Center
-  * Multi-purpose Building
-  * Day Care Center
+  * [Multi-purpose Building](paano-imapa-ang/barangay/multi-purpose-building.md)
+  * [Day Care Center](paano-imapa-ang/barangay/day-care-center.md)
 * [Evacuation Facilities](paano-imapa-ang/evacuation-shelter.md)
   * [Assembly Area](paano-imapa-ang/evacuation-shelter/assembly-area.md)
   * [Shelters](paano-imapa-ang/evacuation-shelter/dedicated-shelter.md)
   * [Evacuation Camp](paano-imapa-ang/evacuation-shelter/evacuation-camp.md)
   * [Additional Tags](paano-imapa-ang/evacuation-shelter/100-additional-tags.md)
-* [XXX](paano-imapa-ang/barangay.md)
+* [Transportation](paano-imapa-ang/barangay.md)
 
