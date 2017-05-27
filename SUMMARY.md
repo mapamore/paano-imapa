@@ -3,8 +3,11 @@
 ## Getting started
 
 * [Panimula](README.md)
-* [Ano ang OpenStreetMap?](first-question.md)
-* [Paano mag-mapa?](second-question.md)
+* [Ano ang kailangan?](second-question.md)
+* OpenStreetMap
+  * Ano ang OpenStreetMap?
+  * [Ano ang Tags?](ano-ang-tags.md)
+  * Ano ang geometry?
 
 ## paano imapa ang ...
 
