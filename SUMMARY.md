@@ -4,13 +4,23 @@
 
 * [Panimula](README.md)
 * [Ano ang kailangan?](second-question.md)
-* OpenStreetMap
+* [OpenStreetMap](openstreetmap.md)
   * Ano ang OpenStreetMap?
   * [Ano ang Tags?](ano-ang-tags.md)
-  * Ano ang geometry?
+  * [Ano ang geometry?](ano-ang-geometry.md)
 
 ## paano imapa ang ...
 
 * [Barangay](paano-imapa-ang/barangay.md)
+  * [Barangay Hall](paano-imapa-ang/barangay/barangay-hall.md)
+  * Health or Wellness Center
+  * Sports or Leisure Center
+  * Multi-purpose Building
+  * Day Care Center
 * [Evacuation Facilities](paano-imapa-ang/evacuation-shelter.md)
+  * [Assembly Area](paano-imapa-ang/evacuation-shelter/assembly-area.md)
+  * [Shelters](paano-imapa-ang/evacuation-shelter/dedicated-shelter.md)
+  * [Evacuation Camp](paano-imapa-ang/evacuation-shelter/evacuation-camp.md)
+  * [Additional Tags](paano-imapa-ang/evacuation-shelter/100-additional-tags.md)
+* [XXX](paano-imapa-ang/barangay.md)
 
