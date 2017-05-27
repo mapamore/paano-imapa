@@ -1,8 +1,8 @@
 ## Day Care Center
 
-A barangay hall is the seat of local government for the barangay, the lowest elected administrative division of the Philippines, below that of a Philippine city or Philippine municipality.
+A day care center is a social facility where young children are looked after. Barangay governments usually run a center for the benefit of their constituents, or work with other partners to operate one.
 
-The barangay officials will often hold office there. The elected barangay council, the Sangguniang Barangay, will also hold its meetings there.[^1]
+Do not confuse day care with kindergarten schools, which are now part of the entry-point of the basic public educational system, under the K-12 program
 
 ### **Geometry**
 
@@ -13,7 +13,9 @@ Set a [node](http://wiki.openstreetmap.org/wiki/Node)[![](http://wiki.openstreet
 ##### Minimum:
 
 ```
-amenity=childcare
+amenity=social_facility
+social_facility=day_care
+social_facility:for=child
 name=*
 ```
 
@@ -42,8 +44,12 @@ fee=*
 ##### Deprecated:
 
 ```
+amenity=childcare
+
 amenity=kindergarten
 ```
 
-[^1]: [Barangay Hall](https://en.wikipedia.org/wiki/Barangay_hall)
+
+
+
 

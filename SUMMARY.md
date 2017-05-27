@@ -18,6 +18,7 @@
   * [Sports or Leisure Center](paano-imapa-ang/barangay/sports-or-leisure-center.md)
   * [Multi-purpose Building](paano-imapa-ang/barangay/multi-purpose-building.md)
   * [Day Care Center](paano-imapa-ang/barangay/day-care-center.md)
+  * [Stage](paano-imapa-ang/barangay/stage.md)
 * Emergency Services
   * Hospitals, Clinics, Etc
   * Police
