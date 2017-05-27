@@ -1,8 +1,8 @@
-## Barangay Hall
+## Multi-purpose Building
 
-A barangay hall is the seat of local government for the barangay, the lowest elected administrative division of the Philippines, below that of a Philippine city or Philippine municipality.
+---
 
-The barangay captain, the head of the barangay government, will often hold office there. The elected barangay council, the Sangguniang Barangay, will also hold its meetings there.[^1]
+Community centres are public locations where members of a community tend to gather for group activities, social support, informal and formal meetings, public information, events and festivities, and other purposes..[^1]
 
 ### **Geometry**
 
@@ -41,5 +41,5 @@ operator:type=government
 
 ```
 
-[^1]: [Barangay Hall](https://en.wikipedia.org/wiki/Barangay_hall)
+[^1]: [OSM Wiki: Community Centre](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre)
 
