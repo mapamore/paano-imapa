@@ -1,7 +1,5 @@
 ## Multi-purpose Building
 
----
-
 Community centres are public locations where members of a community tend to gather for group activities, social support, informal and formal meetings, public information, events and festivities, and other purposes..[^1]
 
 ### **Geometry**

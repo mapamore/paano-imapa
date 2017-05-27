@@ -1,7 +1,5 @@
 ## Dedicated shelter
 
----
-
 A dedicated emergency shelter is a place for people to live temporarily when they cannot live in their previous residence, similar to homeless shelters. [^1]
 
 Dedicated shelters are purposed-built facilities, and designed _exclusively_ as a shelter for emergencies as opposed to multi-functional facilities that were designed primarily for another purpose.
@@ -18,9 +16,9 @@ shelter_type=floods;earthquake;tsunami;debris_flow;tsunami
 name=*
 ```
 
-## Multi-purpose shelter
-
 ---
+
+## Multi-purpose shelter
 
 A multi-purpose emergency shelter is a place for people to live temporarily when they cannot live in their previous residence, similar to homeless shelters. [^2]
 
