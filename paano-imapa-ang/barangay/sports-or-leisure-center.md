@@ -1,8 +1,8 @@
-## Barangay Hall
+## Sports Center
 
-A barangay hall is the seat of local government for the barangay, the lowest elected administrative division of the Philippines, below that of a Philippine city or Philippine municipality.
+A distinct facility where a range of sports take place within an enclosed area, often referred to as "covered court" where basketball equipment and markings are available, but may be made availabe for other sports like volleyball, sepak takraw, etc.
 
-The barangay captain, the head of the barangay government, will often hold office there. The elected barangay council, the Sangguniang Barangay, will also hold its meetings there.[^1]
+Apart from sports, these buildings may be used for social events as well, which technically makes them as community centres, too.[^1]
 
 ### **Geometry**
 
@@ -17,6 +17,10 @@ leisure=sports_centre
 sports=multi
 name=*
 ```
+
+> For key **sports** use value **multi** for multiple-sports, or be specific if it's dedicated entirely for just a sport. For example, if it's only basketball then **sports=basketball**
+
+##### 
 
 ##### Recommended:
 
@@ -45,5 +49,5 @@ building=roof
 
 ```
 
-[^1]: [Barangay Hall](https://en.wikipedia.org/wiki/Barangay_hall)
+[^1]: [OSM wiki: Sports Centre](https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dsports_centre)
 

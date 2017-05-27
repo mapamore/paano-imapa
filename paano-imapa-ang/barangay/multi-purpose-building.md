@@ -31,7 +31,7 @@ contact:website=*
 ##### Comprehensive:
 
 ```markdown
-**operator**=Barangay XYX
+operator=Barangay XYX
 operator:type=government
 ```
 
