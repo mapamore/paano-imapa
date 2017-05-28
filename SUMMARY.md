@@ -11,7 +11,7 @@
 
 ## paano imapa ang ...
 
-* Buildings
+* [Buildings](paano-imapa-ang/buildings.md)
 * [Barangay](paano-imapa-ang/barangay.md)
   * [Barangay Hall](paano-imapa-ang/barangay/barangay-hall.md)
   * [Health or Wellness Center](paano-imapa-ang/barangay/health-or-wellness-center.md)
